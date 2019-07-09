@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "31F7BB35-3CA8-4892-84B0-A5CB43D8AA5E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 196
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / Profile",
+  "nameIsFixed": false,
+  "originalObjectID": "31F7BB35-3CA8-4892-84B0-A5CB43D8AA5E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EC9BBB68-05E1-4F76-9E80-32D3A3E8CEE7",
+      "overrideName": "CC33D1AD-760E-4F58-A691-95901B97762E_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CD0B7C51-49AF-4785-80AD-20B964A77386",
+      "overrideName": "CC33D1AD-760E-4F58-A691-95901B97762E/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e8b43db98a2324329178df33786dd5e7006e26be.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5FAA47DE-0F87-43D9-B52E-360F339D3865",
+      "overrideName": "F2051C35-F8F3-4FC1-87DA-0D4E5A58298D_stringValue",
+      "value": "jaxmoon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB61855F-F410-477F-8B87-D7DA7F83AF31",
+      "overrideName": "05797EED-76E7-4299-8549-46D8F0941DC7_stringValue",
+      "value": "우리동네"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D951A474-AF87-4254-8C92-7DD102204FD3",
+  "verticalSpacing": 0
+}

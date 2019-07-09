@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "51DB4B11-B160-4E13-9C45-0ED1DE2AB54B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A6991FA7-7A6F-4431-AD7D-171A1384F423",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "3D380DE6-FE1B-4BC0-A89A-0303E0F9860C"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F809093F-80C1-41EE-A782-A2BFEC43058E",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 345
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "asBound / LineProfileHighlight",
+  "nameIsFixed": true,
+  "originalObjectID": "53BA7A58-8006-432C-AA58-5801EDEEF5DC",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E35AA41-D2E5-4F8C-9C8B-EFC3C10B916B",
+      "overrideName": "AB7F00E5-06B0-4C8F-B2C0-0D879F63E087_stringValue",
+      "value": "주소인증"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94D842F3-78D2-4D32-AB46-4E678CA4434D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "671CC9BD-7A97-440D-9E4B-061FE2232B26",
+  "verticalSpacing": 0
+}

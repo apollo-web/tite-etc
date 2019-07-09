@@ -1,0 +1,125 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FD2808C4-80EE-45B8-81C6-2727D87B1D76",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3AF3AE6-B3EB-42C9-B0FF-4ADF0C6D06CC",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "13F3A969-D266-4A37-A2B9-18AE3ECB16A0",
+    "do_objectID": "6F070D9E-BFBF-4B11-8C91-C535F9840F08"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D79D064D-F3DD-438D-9534-08E9195794BE",
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 49
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / profileDist",
+  "nameIsFixed": true,
+  "originalObjectID": "8282F5EC-527B-4EF6-928D-2596769CF4C2",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F92673FB-E0A8-46CE-A329-AE4B7F5EC0BE",
+      "overrideName": "2A137591-844D-41EB-9D8A-10099365186B_stringValue",
+      "value": "우리아파트"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "238E7B46-5962-42F4-851D-4E26D8DECE16",
+      "overrideName": "7A65F272-F3DE-48F5-A611-BEFE63B02030_stringValue",
+      "value": "jaxmoon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "778713A2-2791-4A3D-B9FA-478ECE90E011",
+      "overrideName": "6E10840F-1EF8-4BF7-A20A-2034B683506A/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/55db0b2a2803395c38dce14aa3b8b2a0c421afb9.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FEAD00DE-22B1-4176-9723-2D4D75397505",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B290789F-7F7C-49E6-8053-F8986237095F",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "13F3A969-D266-4A37-A2B9-18AE3ECB16A0",
+      "transition": 1
+    }
+  },
+  "verticalSpacing": 0
+}

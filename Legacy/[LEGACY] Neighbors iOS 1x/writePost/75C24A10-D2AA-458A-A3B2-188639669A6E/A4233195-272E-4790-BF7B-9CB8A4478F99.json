@@ -1,0 +1,124 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A4233195-272E-4790-BF7B-9CB8A4478F99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "D2CDBEB3-7309-464F-8E0D-EFF21B3CE994",
+    "do_objectID": "FE459C20-8EE6-42D3-8A61-FCC39781BAC6"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 375,
+    "x": 0,
+    "y": 162
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BaseActiveBefore",
+  "nameIsFixed": true,
+  "originalObjectID": "B28688D4-2756-4874-B206-212046F89F35",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DFA3614-A3B7-4811-8C63-561005BD32B1",
+      "overrideName": "9CCAF42F-F2E6-4F7E-9DD3-1FB22D51A962_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F5BB993E-E234-449D-9D9B-12B7B9414DDA",
+      "overrideName": "B8A45C90-220B-44DA-BF54-9D1C4AEEC7DF_stringValue",
+      "value": "제품명(필수)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "71745A3D-3734-4369-83A5-F83DC88CD585",
+      "overrideName": "AC6F3382-CD71-4F24-9DFB-B161E93B1B91_stringValue",
+      "value": "제품명을 입력해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA5BE111-C15D-4DF7-B577-3FE73552BCC9",
+      "overrideName": "F2CB0E69-9831-470E-89DC-A3F1B29FAF57_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D25D95BC-A4CC-4BF6-B3D1-AB0545F7AA2A",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "D2CDBEB3-7309-464F-8E0D-EFF21B3CE994",
+      "transition": 0
+    }
+  },
+  "verticalSpacing": 0
+}

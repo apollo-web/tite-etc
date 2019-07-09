@@ -1,0 +1,116 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "41971D17-9603-45FE-B47A-2F77D93BAF02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3E71B07-9F24-43D9-B2BE-364AE459A962",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D26825B5-6090-44EA-AB68-894493306AFB",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 24
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / basic_icons",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02ABCEF2-9323-442B-A886-8A554BFB0E88",
+      "overrideName": "89358344-B462-46E9-AA81-CEE955E34DE3_symbolID",
+      "value": "A9A66BDC-E29C-4AA0-8D2B-B5D27A66366F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "44DD0F40-EB2B-4C9A-BAA3-D6C55B18744A",
+      "overrideName": "D17309E4-4BF9-4553-806F-1780AD4AB84E_stringValue",
+      "value": "spemer님의 프로필 사진"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "895242E8-5328-4482-8746-84E04FAC0C5F",
+      "overrideName": "95E7272F-4C6C-4FA7-B9AD-4380DD848441_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9F86FA00-1A5A-4EFD-8CEE-8BA71CF4A10D",
+      "overrideName": "8B5FA283-A3EC-41F9-971C-230A5C40903E_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5257E4BF-4958-48EA-852E-7C8D22E8C07F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4147CCE6-92A9-46D4-BA24-3EFC7D637934",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,106 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7E8099BA-6CA3-4939-8840-319199C0220A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 11
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / ProfileVerifiedIcon",
+  "nameIsFixed": true,
+  "originalObjectID": "7E8099BA-6CA3-4939-8840-319199C0220A",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DB544641-FAC7-462D-83F3-710A4AA88C17",
+      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC8C2F9A-5BEF-4786-8083-DBD4757979EB",
+      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/34fe469a85e053cd6efcb602111be81a0a4810e1.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76E680DD-D486-47F3-BAEF-45C8CD9983CA",
+      "overrideName": "08EB031B-C7DE-425E-88AA-A457D40727FD_stringValue",
+      "value": "alexkim"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4EA0275D-6784-4274-96C9-DED4A7DB57D9",
+      "overrideName": "F33A2659-FD2C-491D-A30A-D072645C649C_stringValue",
+      "value": "우리아파트"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8636F70-D291-49B6-9694-41CC5A5C29E8",
+      "overrideName": "EE445A79-FE2E-421D-A6E1-5804897B0DD3/91F9B617-B0E9-47BB-B6DB-5CDE772ADE5C_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A169195F-8ECE-4025-8435-4C9A3767F9CE",
+  "verticalSpacing": 0
+}

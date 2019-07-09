@@ -1,0 +1,182 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3E678EA1-EF83-42D6-B316-C921A3D1AE7B",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "68C4A8BB-2A65-49DA-9B71-6DA481094331",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DB1BDFE-5686-442C-8E87-45956058E359",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4DAF1CE9-92D7-42C2-804B-D47D50E075DD",
+    "height": 667,
+    "width": 375,
+    "x": 387,
+    "y": -2323
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0AC3C510-E6D4-4847-A68D-363CB403B21F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E6AC86BB-238B-43A7-8E1B-D300E092C6C1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D1221C7-7258-4E19-A4BA-C279725DA5AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CF851E8-4419-44D0-9C30-3C4C6F1BAAD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "02F3D1FD-3D38-44D3-A0E8-93BD35ACDC89"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0C38F00E-962D-418B-9631-7D97DE0A05ED"
+    },
+    {
+      "class": "text",
+      "id": "53F9194A-FCE0-4879-9ACA-E87CAAA9A8C4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "241A5A66-49AA-4F67-9CF6-4EF82D299528"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D64E338F-6CA6-4E9F-A50A-14EF6E80314B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A5617C48-B03F-4C13-A931-0764D3CCC7DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92439FCC-19E2-484E-8447-355ADD5554AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87D06E5B-316F-4149-A4FD-F3F595B9E3E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A9467E1F-67A1-4878-B0E8-A3069084B610"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03EE5225-285E-4101-A4F3-0AAC4D12AD2A"
+    },
+    {
+      "class": "text",
+      "id": "37E3FD30-0D9E-4B07-9F26-23AA98AB0ED1"
+    },
+    {
+      "class": "text",
+      "id": "953DFB97-0363-4339-B5E8-F09EE92E1741"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7C8709E8-7BF3-4959-B3EE-CE0C92C740B9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "743CC392-0263-46DB-80CB-B0E4EEF64542"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5319CEA1-8BA8-4DF4-A5F3-0975FDD8FA5D"
+    }
+  ],
+  "name": "actionsheet - writePost - tempSaved",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "778BF14B-F074-44EA-ABA7-8BEF5A4BBA09",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "avocode": {
+      "idsFixed": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "198C35CE-7A62-4EF1-B3C8-632CB8D5B2DF",
+    "guides": [
+    ]
+  }
+}

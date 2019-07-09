@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "581AE111-8539-466C-B91B-F655BC399F65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "509D3B22-1AB6-49EF-8934-B1B6F2F33EE7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDA1D8E7-A5B6-4DAA-B172-737E40254871",
+    "height": 48,
+    "width": 375,
+    "x": -2228,
+    "y": 998
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / activity",
+  "nameIsFixed": false,
+  "originalObjectID": "C084DC3E-AECC-4B4A-A098-314D6E275587",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "78A2F36F-D2E5-4809-A913-A9009AD92F94_symbolID",
+      "value": "CDE4B1A7-7B27-4E3B-AF9D-3021F6B5DF15"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "17C9CDA6-B3C6-4045-A9CC-15FFA19C8301",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ECC65287-96D3-465F-A344-7B9DE60FA5ED",
+  "verticalSpacing": 0
+}

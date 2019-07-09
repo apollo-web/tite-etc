@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6C5FCDB6-EE9F-476D-B52A-98BDC135376B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "05368F7B-7EBB-4DC1-90E4-C5B712330CC2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "3D380DE6-FE1B-4BC0-A89A-0303E0F9860C",
+    "do_objectID": "4CF0F804-7C00-4CC5-BF19-7A22FFA7D48E"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "06802CB5-A36C-4804-A3DE-A48F7A28F6B8",
+    "height": 80,
+    "width": 375,
+    "x": 0,
+    "y": 345
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "asBound / LineProfileHighlight",
+  "nameIsFixed": true,
+  "originalObjectID": "53BA7A58-8006-432C-AA58-5801EDEEF5DC",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E35AA41-D2E5-4F8C-9C8B-EFC3C10B916B",
+      "overrideName": "AB7F00E5-06B0-4C8F-B2C0-0D879F63E087_stringValue",
+      "value": "주소인증"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8002A024-F46E-484C-83A1-98E9FDFF981A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "671CC9BD-7A97-440D-9E4B-061FE2232B26",
+  "verticalSpacing": 0
+}

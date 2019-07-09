@@ -1,0 +1,81 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1953BE97-A0E5-418D-90D5-5A12BD4859D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8DC27EE-DC09-46FE-9D1A-C73A09A8EE56",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33A003DD-79C2-47BD-8A92-C2A28E0CB64F",
+    "height": 41,
+    "width": 375,
+    "x": 0,
+    "y": 420
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / noComment",
+  "nameIsFixed": false,
+  "originalObjectID": "DC2355F8-CC87-4A7D-A07B-E4FD8AF246DD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D99438DA-8F2A-4C1A-B559-58DE4A9B7402",
+      "overrideName": "4AAB8089-DC3E-411F-9347-A219EBDCFEE4_stringValue",
+      "value": "가장 먼저 좋아요를 눌러 관심을 표현해보세요!"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60A44E2D-4222-4CE7-AC24-96E83BAF7FCA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1AE865E2-86B9-4848-8377-73B0E6CB2097",
+  "verticalSpacing": 0
+}

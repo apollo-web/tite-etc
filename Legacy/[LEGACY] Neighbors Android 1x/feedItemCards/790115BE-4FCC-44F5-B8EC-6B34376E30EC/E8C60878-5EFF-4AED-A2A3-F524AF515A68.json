@@ -1,0 +1,105 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E8C60878-5EFF-4AED-A2A3-F524AF515A68",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 100,
+    "width": 360,
+    "x": 0,
+    "y": 583
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "comment / comps / 2lines_basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34E16833-F373-495B-A991-A76874D87F4B",
+      "overrideName": "10D151BF-B1C9-4E81-896E-4ABB858A92E3/D52C76B4-F409-46E5-A69B-853773832D95_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/72e243008ba69d4e208d42f8df6df3e3d9e226be.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "23F33B11-BEC0-418D-A17A-7B24708D545B",
+      "overrideName": "169CB345-E9F0-401B-935F-F5C45E340420_stringValue",
+      "value": "래쓰맘쓰 공감해요 ㅠㅠ 저는 쌍둥이라서 더 힘드네요... 다른분들은 어떻게 하셨는지 노하우좀 보려구 눈팅중이에요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E52E31B1-5495-4D19-8CAB-DD933F834505",
+  "verticalSpacing": 0
+}

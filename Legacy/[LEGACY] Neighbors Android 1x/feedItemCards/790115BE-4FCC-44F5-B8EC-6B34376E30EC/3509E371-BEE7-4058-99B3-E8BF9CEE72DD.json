@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "3509E371-BEE7-4058-99B3-E8BF9CEE72DD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C820A63B-265A-4E90-A0D1-871C033D5384",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B8114902-3573-4822-B7F0-6FA6EF8AC289",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 291
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / liked_users",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "85447DEB-D64F-4B06-A823-9444F1F55BFD",
+      "overrideName": "04BFAB47-6165-4577-B792-0807E45CD4C8_stringValue",
+      "value": "junojang 님 외 4명이 좋아합니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E32AF2C-9723-4BE1-81E0-70688E3683CF",
+      "overrideName": "6AFB18D8-76FE-40AA-8D91-36B8EC3480E4/AF604EA8-73DA-4FF2-880B-B07CA4880B65_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/95cef6c5ea1f800faf9f649304d6ad3db5b2f5a1.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B82E7DEF-5DF0-48AF-A227-D535B5B2DC62",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "E22CB175-D9D6-4FAC-B689-CBD8E3985C13",
+  "verticalSpacing": 0
+}

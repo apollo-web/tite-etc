@@ -1,0 +1,186 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CB903954-9681-4EEF-9810-90DF8E925262",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "1FC3DDAB-63B8-4016-B26C-395567F1BC43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E607469E-E6B8-419D-9C62-566238B51E49",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "18D2AA7F-A34D-4962-BE05-0E6EB4F81146",
+    "height": 667,
+    "width": 375,
+    "x": -888,
+    "y": -1606
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7F82A554-C0C7-468D-B9F1-A12A4E266B7D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "CAEE60CD-A8E6-46E6-A86C-AFF347D75ADE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01E518A5-4E9C-4BA9-9AF0-E31C52125929"
+    },
+    {
+      "class": "text",
+      "id": "FB9A53FC-9F72-4943-BA64-BD1B199D5ACD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8EDB65A-28D5-478C-9117-495A3223AA97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "69A86263-5A18-49E1-9AFE-C32DFA40DFAB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED3EB107-98F4-4322-B75C-CCBA3E67D981"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9AA07506-A4B0-42E9-BFDF-F7CBF2C23D35"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62376D84-EAE1-42BE-85B3-B79A6908222F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D66D1BD-629B-47D6-B492-51676A0C356D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "78D7E364-C05B-44B7-BAF2-70A7AC6AFACB"
+    },
+    {
+      "class": "text",
+      "id": "1C53FCD8-9A86-4509-88D5-BADF6D88D893"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D2EB3F2-9F30-4492-921A-D923AFA64E51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CBD2BF13-B6E9-4C12-A828-45C0BF825944"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C5F93E8-DA59-4080-8DF4-60697561737C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1EDE27B4-BC7A-4477-8696-97598A7290D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3E70904-6C02-4958-A6A2-888EBF53A5AC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D3722C8-599F-4A2E-97F3-5D665E1D65C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F8166E7-72F9-445C-83E1-3A12687C37B6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB3DB70D-8688-4F85-80DF-00E54CAF6ADA"
+    }
+  ],
+  "name": "feedItemCardSurvey - closed - connected",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BFE82658-F1F2-4517-847E-7BE6554D0882",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.atlassian.sketch.jira-plugin": {
+      "layer.last.exported.issue": "NGHB-23"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F2B34181-BCAA-432C-B68A-E878FE31AC89",
+    "guides": [
+    ]
+  }
+}

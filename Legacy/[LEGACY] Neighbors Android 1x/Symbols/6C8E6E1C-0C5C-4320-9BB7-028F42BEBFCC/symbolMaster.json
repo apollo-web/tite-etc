@@ -1,0 +1,149 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 3367,
+  "do_objectID": "6C8E6E1C-0C5C-4320-9BB7-028F42BEBFCC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 2465,
+    "y": -1253
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8D7FEFEE-6AB0-4C48-9D82-5E0E423CB4AF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8413EDF9-F4DC-4D5F-9125-E1DF8CC013AE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41E05528-3457-4B36-9F35-3ED6298A1FE4"
+    },
+    {
+      "class": "text",
+      "id": "6D1359AF-AF47-471E-A64B-4704D7204374"
+    },
+    {
+      "class": "text",
+      "id": "6DA9C752-5429-4EC2-9FFE-E5007EC6F0C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "900228E2-4E4F-4CA2-BBF4-D0D6607EECF1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9826D273-CB18-448E-A651-D5C4DCCDAC67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A2AFB91-D4FB-4D08-8F88-128D54EB5DB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6977614-2612-4296-9001-4DF59A3E3F2E"
+    }
+  ],
+  "name": "actionSheet / 3Line3Bounds",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A526DD08-FA8F-45DA-87B3-BBCF3E839BDA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

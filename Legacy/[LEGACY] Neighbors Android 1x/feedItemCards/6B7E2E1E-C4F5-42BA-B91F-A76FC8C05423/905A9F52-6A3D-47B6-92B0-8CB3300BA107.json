@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "905A9F52-6A3D-47B6-92B0-8CB3300BA107",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "337EE6AD-D0FB-4F73-AADA-630B1E5472A1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EDD3AD0-DE99-4C10-B3EA-11531C7D3304",
+    "height": 32,
+    "width": 360,
+    "x": 0,
+    "y": 272
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / tags",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D65DE982-51DE-4A8E-BF69-443CC2AED307",
+      "overrideName": "B770702F-4D9D-458C-91FE-5EA682004129_symbolID",
+      "value": "DA49E45F-88D7-4B3C-B2D2-691AC8013159"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "419E7562-F2A3-401C-B31A-56D7A52D379C",
+      "overrideName": "A5DADEEE-6D16-4AF4-8D50-D44B768CE945_stringValue",
+      "value": "맘스"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E3EB723-DDFF-4800-95FC-667A8760ACEA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "245CE8B6-E4DE-4D88-9BD2-E1D325E66F39",
+  "verticalSpacing": 0
+}

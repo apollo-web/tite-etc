@@ -1,0 +1,205 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "812C6279-9B21-4DDF-AF22-1EAA2E797ED4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": -1844,
+    "y": 1310
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CD66FD61-F0E4-44A6-ABA6-3617A6157F10"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CE9204F-B01A-4FAA-B409-E1B57A1B2A58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9A8AAEFC-25F7-47FD-9C1A-B58467289B1F"
+    },
+    {
+      "class": "text",
+      "id": "4E502D99-2740-4192-942B-9C01A7000F8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "781E7E89-B30C-482A-B7B1-0634C3B90ED3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "247340DD-9965-4FB4-8A52-7260C01D78C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "510E7C99-D1C3-4430-8AD3-7E7ED7A5A96F"
+    },
+    {
+      "class": "text",
+      "id": "119F8A9F-D056-46F2-94FF-E87CD9B960F1"
+    },
+    {
+      "class": "text",
+      "id": "2331DBE3-623E-4715-90CB-2B400319070E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2E65B305-61EA-470E-B67C-F2A4CAB1EBB0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAEEDF32-BE46-49DA-9E06-6365385754E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DCBDF64D-6DD6-4910-8559-921AD2D4294B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0CAE149-5148-41FF-8024-B5332829D678"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AC09887-B546-4B3A-932D-811C7B466506"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C35025A7-07C4-401C-AE64-E37DB0BEA2A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06E0B472-8939-4C69-9218-C58BD6B1996E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BF3CE3C8-D135-46FA-84DD-2BAA31C647A4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C415ED1-B167-43B2-87D5-993178886114"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A546A359-6AED-4A39-BC37-F67C801A2FD3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "04D3C3C0-B32B-422C-B4AE-189EAC6FAD21"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36CBAA59-72B5-4846-93B8-53EA7DD598BC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E74A874F-C5F3-477B-BCCE-BA43F61C7790"
+    }
+  ],
+  "name": "feedItemCards_details - menu_actionsheet",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

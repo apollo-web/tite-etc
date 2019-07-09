@@ -1,0 +1,120 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "893505C6-C378-49E7-8795-D9B7CB67DEDC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6E2B6C1E-4D83-4721-AB12-AED7CCC47CED",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "48B1DC86-B822-4F60-83CC-6875C1C89B57",
+    "height": 72,
+    "width": 360,
+    "x": 0,
+    "y": 437
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / profile_verified_user",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AA730DEE-F8A3-465E-962C-C73960A1C3D4",
+      "overrideName": "2A385014-E8AB-4E91-B1A6-9759A8067097_symbolID",
+      "value": "E845789F-E506-42D3-94AF-C2EF3A30D451"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "88C6BD71-C834-4A52-97AD-BB5C0B145725",
+      "overrideName": "486636FB-E986-4DB9-8FCA-332F5FC9DD57_symbolID",
+      "value": "6AC6FE99-7713-48E4-9B71-180A2B8F0AA5"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "EE94936A-8389-4BC4-99AC-7C2AE48F1955",
+      "overrideName": "486636FB-E986-4DB9-8FCA-332F5FC9DD57/D52C76B4-F409-46E5-A69B-853773832D95_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/e6bc83f15d485985fb7b432e1a4d4c94343419c9.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DBD13195-A7E3-4847-9D2F-388A733A29C7",
+      "overrideName": "8833FD8C-DB89-4BA0-ABB2-991BEA5D46C8_stringValue",
+      "value": "yohankim"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AA51D894-7B66-4DCB-8B3C-1C49F9C4F687",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "20F68BE7-0014-4184-AA17-116A8388DB28",
+  "verticalSpacing": 0
+}

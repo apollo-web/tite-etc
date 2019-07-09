@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "49A664B9-D4A0-480C-9671-3B52298DF8F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5FBCCA6A-4862-400D-AF35-5FC29B082EF9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE561BA4-7F4E-4F80-9CBE-4542FD8AEEF2",
+    "height": 178,
+    "width": 360,
+    "x": 0,
+    "y": 273
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / comps / image_rect_3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1822B10D-A033-4F46-B6BD-D7EB255E31B6",
+      "overrideName": "00EE0EEB-321C-4EEE-B066-B50461E60BA4_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/ee7c3d9d147f32bfafc02ed44cba93524825be50.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FF2239C8-B952-4F31-8CED-497D1B25E4F8",
+      "overrideName": "96B16626-A9F2-45E1-BC28-B36E365A3788_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/4eb4995ba3faaf25b6e12adf94ba2f4808e32a9f.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CE5450C0-2BAE-436C-8E57-34C1FED10B20",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C23857B5-B24C-4CF6-8714-D7C74425CA18",
+  "verticalSpacing": 0
+}

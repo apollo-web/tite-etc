@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "E724F22E-52F2-453B-B60F-7564799FFFB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64803ED0-F436-47E4-8B95-8B0B4F4C97E5",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A69F455E-B460-4D4D-9C79-82303FB6762A",
+    "height": 48,
+    "width": 360,
+    "x": 0,
+    "y": 24
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42B29BB7-92A8-4DEE-8DF6-CAC50B143151",
+      "overrideName": "041556F0-1747-4F83-8B73-D13C3E2D1AC7_symbolID",
+      "value": "A9A66BDC-E29C-4AA0-8D2B-B5D27A66366F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1ED863A6-3A5C-4C1A-B4DD-2C48B494A02A",
+      "overrideName": "141469BA-B718-43C3-B0DC-0C9547C1A778_stringValue",
+      "value": "GPS 인증"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35310A60-C9EA-4B71-A91D-E9434E30CF0D",
+      "overrideName": "A253F633-BC1A-4ABD-825B-E0B0BC3B9898_stringValue",
+      "value": "재시도"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A729616-4A63-47F8-92C0-9307C8C10B53",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2DB2E4D0-9D47-413B-B1D4-9CD769DB66A9",
+  "verticalSpacing": 0
+}

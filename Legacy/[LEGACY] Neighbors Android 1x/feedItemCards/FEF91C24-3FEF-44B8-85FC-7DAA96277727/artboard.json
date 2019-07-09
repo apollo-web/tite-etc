@@ -1,0 +1,228 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9764705882352941,
+    "do_objectID": "524A25D2-4EBB-4A1F-90B4-325FBA87B98F",
+    "green": 0.9764705882352941,
+    "red": 0.9764705882352941
+  },
+  "do_objectID": "FEF91C24-3FEF-44B8-85FC-7DAA96277727",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0422F6CB-4321-41AD-BBC8-6E52E546B91F",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8328B1C-C11E-422A-86AA-DE15C4EB6B18",
+    "height": 640,
+    "width": 360,
+    "x": 2756,
+    "y": 2050
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "5B54F318-C5FF-4CA4-A03F-6D796364046B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "DE113A93-A2FC-40EE-9A00-DDF9C5497581"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E53CB24-13B2-4C2F-92F3-9B5581B914FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A25B36E-0F2C-4382-81C4-8AC66D17B8DC"
+    },
+    {
+      "class": "text",
+      "id": "84910518-3930-4AEC-9E66-0A987C3F05F6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ACDDB9CF-9E98-4467-B664-1A14C715631D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9E4D093C-488A-44B6-A80C-E7B30B365235"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "889271F6-B93F-4815-BA25-6363DB0EC820"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F012317-6F3E-44F2-ACC1-02C1DF5C94B4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F2F6CE8-316C-43E9-A06D-527766B1C76D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D174EF63-131E-4506-8C54-CA442C11B46A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3D702A2E-D6F9-4F4C-80EE-779D91535582"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9409FD4E-5871-4ACC-BEC5-CE48ADDB8D73"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2436E52C-B951-4FD6-8AC3-911F7DE8EEEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5EC01280-2D10-4086-A921-686DF642B579"
+    }
+  ],
+  "name": "feedItemCard - cta - writePost - market",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D61DE60A-C66F-4D87-AEF5-660E5903B01A",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D1302B63-F9BC-4143-82D4-AF5258A82326",
+    "guides": [
+    ]
+  }
+}

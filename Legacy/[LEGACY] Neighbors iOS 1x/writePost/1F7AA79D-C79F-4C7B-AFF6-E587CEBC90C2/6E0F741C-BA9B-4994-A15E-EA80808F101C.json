@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6E0F741C-BA9B-4994-A15E-EA80808F101C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF02591C-D298-4FF0-9A33-AC376665F0AF",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0463B05E-329E-494C-93FA-20BCB733BF7A",
+    "height": 56,
+    "width": 375,
+    "x": 0,
+    "y": 331
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / tag / onPopupOthers",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4841F2D6-39B5-4371-AA9B-F17A9F693691",
+      "overrideName": "5AFA2E9F-D162-4361-9E44-5F30AEAAB6FB_symbolID",
+      "value": "9776E2CB-AE6B-4C7A-B064-62E56425A959"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DA176F86-E5C9-4F21-878B-ED57F1D1542A",
+      "overrideName": "2C254F05-9CB7-4EDA-A0E7-1615F28E1D6C_stringValue",
+      "value": "소식"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28BD2652-8CC8-4C26-B2AC-9ECBDC095797",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "AF78621F-92CD-47C9-98BD-501F802CAD44",
+  "verticalSpacing": 0
+}

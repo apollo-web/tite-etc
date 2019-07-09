@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "86BDD6AE-1894-4CE5-A167-594D6AFA723F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8F6B036-1502-4BA7-B927-08C131A72DA0",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5C506147-981E-456A-8F4C-3376AC5B134A",
+    "height": 48,
+    "width": 375,
+    "x": -1827,
+    "y": 998
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / activity Copy 7",
+  "nameIsFixed": false,
+  "originalObjectID": "C084DC3E-AECC-4B4A-A098-314D6E275587",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "78A2F36F-D2E5-4809-A913-A9009AD92F94_symbolID",
+      "value": "CDE4B1A7-7B27-4E3B-AF9D-3021F6B5DF15"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4EF7A109-2011-476E-82A6-2B43BA1434EC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "ECC65287-96D3-465F-A344-7B9DE60FA5ED",
+  "verticalSpacing": 0
+}

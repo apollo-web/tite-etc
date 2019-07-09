@@ -1,0 +1,90 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5743778B-1C37-4361-A3B3-F0C4E1220EBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "720DC190-887A-434C-B55E-604C2D14CC55",
+    "do_objectID": "2532D607-5BE3-481B-95A7-781393515388"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / Base3",
+  "nameIsFixed": false,
+  "originalObjectID": "5743778B-1C37-4361-A3B3-F0C4E1220EBE",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F495596-FFEF-4A95-9A49-93163E26BCB7",
+      "overrideName": "A90AED5C-EDF9-4A56-A1A1-5EBFB300E248_stringValue",
+      "value": "마켓"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B8535699-8A77-441C-8A20-381C86C3FFEA",
+      "overrideName": "E34913C1-0F8E-47C9-955B-6AE5951B8158_stringValue",
+      "value": "게시하기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9598247C-7041-4C75-94E7-2F8A42AE4E40",
+  "verticalSpacing": 0
+}

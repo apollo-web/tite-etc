@@ -1,0 +1,86 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "8EFC573D-6D05-4A41-B885-D72B8156F4E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8249967-34FD-444F-A633-FDB8101EBCE4",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7070D2C0-D8B3-495A-B148-106D5685B8BF",
+    "height": 32,
+    "width": 375,
+    "x": 0,
+    "y": 491
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / invitePurchasePeople",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "41B98855-4E8B-4FCE-A116-65160CA03152",
+      "overrideName": "95F90C58-7BB6-4521-9149-9EEDEE25440A_stringValue",
+      "value": "청원 알리기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7DCF73D-93C1-459B-97A4-71FD5E407019",
+      "overrideName": "D9F32B92-1F22-48B4-86B8-9D37A4AFE578_stringValue",
+      "value": "청원에 함께할 이웃들을 더 모아보세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "728D8D95-F8AD-459F-955B-BBB9C0B1D525",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9C04F9DE-C06B-43E0-B27A-E6F49633B0AA",
+  "verticalSpacing": 0
+}

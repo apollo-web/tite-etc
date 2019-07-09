@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "585895CA-9F62-4AF0-8231-ABAB89CD5B6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C92309B1-558A-4085-966F-AEB8E673C3B7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDCD34D3-77EB-497A-98F5-523BF147DDDB",
+    "height": 114,
+    "width": 114,
+    "x": 245,
+    "y": 307
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / selectTagEachBox",
+  "nameIsFixed": true,
+  "originalObjectID": "35BABABA-5FEF-49CE-87A8-B5C2C61735FA",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F16B153-FF2B-4622-922D-C82744727A2D_symbolID",
+      "value": "EC6D8139-7AA9-4137-9568-575B29E5793A"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "873C34DD-41FD-4E45-B1BD-51E389805E10_stringValue",
+      "value": "신고"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77B37EE9-9634-4355-B1BD-B03EC5660CC5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2ABE89CC-27FD-4D89-8966-1785BA6F959B",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B161DFE4-4BA9-4FE4-BC04-BBFD91A1EE5B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 192,
+    "width": 375,
+    "x": 0,
+    "y": 219
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / comps / image",
+  "nameIsFixed": false,
+  "originalObjectID": "B161DFE4-4BA9-4FE4-BC04-BBFD91A1EE5B",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "80C92D30-34AF-489E-87C3-506C7F79AB3E",
+      "overrideName": "C4E06D8B-3230-4EB1-85E2-E2336B04EAA1_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/2e5a2ae1b06da4ea6e4154fb8e907c8abf344dc3.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "55C26187-6229-4DD1-A095-13AED184F4A5",
+  "verticalSpacing": 0
+}

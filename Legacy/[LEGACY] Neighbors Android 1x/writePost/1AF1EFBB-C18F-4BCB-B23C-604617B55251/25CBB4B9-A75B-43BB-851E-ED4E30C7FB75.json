@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "25CBB4B9-A75B-43BB-851E-ED4E30C7FB75",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6AAA7892-46DB-4FE2-862E-220683AB2F40",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "FAB29961-ED1B-4352-B8A1-87585CC81B31",
+    "do_objectID": "743E9FBB-8842-4437-8699-A3F1C58E9722"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79E0C673-E2CB-497C-BF7D-F0556B6D88AD",
+    "height": 32,
+    "width": 360,
+    "x": 0,
+    "y": 122
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / tag / tags_dropdown",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F735303B-11C9-478F-9474-24F8D20D3DBF",
+      "overrideName": "E64103D4-E848-4672-B27B-8E769D179092_symbolID",
+      "value": "DA49E45F-88D7-4B3C-B2D2-691AC8013159"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "318E4D19-90B0-4D9A-99F3-77178DE9F1A7",
+      "overrideName": "37098D69-BAB8-4AA1-8FD2-E0050F088A39_stringValue",
+      "value": "맘스"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D3A8EF5-ED15-4238-B0F7-117E9C85CB01",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D0E0EDAC-38E2-49C4-B3D4-01113856D7E0",
+  "verticalSpacing": 0
+}

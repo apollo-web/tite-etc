@@ -1,0 +1,85 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "95EB0D48-22CA-4556-B1AD-366EF13F1619",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8568E2D1-6452-45D6-9265-7D1AA7747A41",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AEC896BB-A180-4FAB-B9D6-B84DB48B8C27",
+    "height": 28,
+    "width": 375,
+    "x": 0,
+    "y": 168
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / tags",
+  "nameIsFixed": false,
+  "originalObjectID": "DBC3179A-0EE3-4EC4-90B4-871D0474BDB0",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "CD04D49A-A001-42D3-8D54-C9A1B4AF7B1B_symbolID",
+      "value": "C9C8F8B0-823A-4D0E-8EEF-441A150555FB"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9EEB932E-A2D6-4D74-ADC8-209B105CCD3A_stringValue",
+      "value": "마켓"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "149D7AAD-98D0-4250-998E-1C4758F29E19",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "2CF12A82-D664-4104-99F8-DDE0F2420752",
+  "verticalSpacing": 0
+}

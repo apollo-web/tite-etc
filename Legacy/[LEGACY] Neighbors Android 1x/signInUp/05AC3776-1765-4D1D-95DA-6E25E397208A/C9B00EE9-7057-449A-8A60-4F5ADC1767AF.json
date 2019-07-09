@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C9B00EE9-7057-449A-8A60-4F5ADC1767AF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56CBAAC6-0D47-4733-8B7D-E71C0F8C851A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "52CB8454-994E-44BA-93A0-EC8C6F5333D1",
+    "height": 80,
+    "width": 360,
+    "x": 0,
+    "y": 518
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "apt_list",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2A45C68E-83CE-42E0-AE03-14A46649F7B9",
+      "overrideName": "8A15560F-491E-455D-A29D-C288EE4EF029_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4ED2B871-808B-447B-AC91-E39779589B03",
+      "overrideName": "1304C209-CA99-43B1-84E0-1DE3387223C3_stringValue",
+      "value": "인천광역시 연수구 함박로 4번길 6-4"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "002D07AF-F75E-43FD-8F0C-A250C5B1F067",
+      "overrideName": "AF97CBBB-E512-4635-9B22-474C9C1F58A5_stringValue",
+      "value": "연수 태경2차아파트"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "629D58BE-B24E-40B8-AA3C-9227292222DC",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "567C3707-EA8B-4CF4-836E-0A60469EC426",
+  "verticalSpacing": 0
+}

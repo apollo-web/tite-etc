@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CBD2BF13-B6E9-4C12-A828-45C0BF825944",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E61E878F-655F-44D3-9C8D-CD6CDCA882E9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C698EEA0-6358-4230-88C6-6EE76ACDEAD5",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 288
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / survey",
+  "nameIsFixed": false,
+  "originalObjectID": "3467C7A6-9E5E-4410-8900-461C57A0432E",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A0012DB2-7DE9-4F3A-AD56-23FCFC889A02_stringValue",
+      "value": "2월 13일 화요일"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EBF28FF1-43BF-4CAD-9CA5-3CF88DB76CF0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "16B56ECB-8E16-4069-AF65-A64B76515994",
+  "verticalSpacing": 0
+}

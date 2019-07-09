@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C36C3B05-9823-439E-9A1D-34DE85F2EDD3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "888A3A62-9EA5-4F1C-915E-6379141985B2",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69794D7B-B695-4E47-B639-47EE113094F7",
+    "height": 110,
+    "width": 110,
+    "x": 16,
+    "y": 294
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / selectTag_each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC3E3D7B-D5D9-4374-ACDA-249B58D76ADD",
+      "overrideName": "C655D5DB-8AF8-4079-AECD-6BB37C70BA36_symbolID",
+      "value": "B010C408-BB55-4276-B02E-9B698A07A027"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1A228AF-E26A-4FB6-AB15-799F24D1B03E",
+      "overrideName": "4197A018-7B8A-49BA-95E1-B470F827539B_stringValue",
+      "value": "톡"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9012FA4B-5D62-4749-8C44-F2F363C6D88A",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "34E5DF0E-3338-4F11-AF70-F80D795F0712",
+  "verticalSpacing": 0
+}

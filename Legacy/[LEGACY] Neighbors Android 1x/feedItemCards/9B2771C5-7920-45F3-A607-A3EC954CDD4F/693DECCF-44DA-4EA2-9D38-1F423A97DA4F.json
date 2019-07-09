@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "693DECCF-44DA-4EA2-9D38-1F423A97DA4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0954CB50-13EE-4322-89C7-31EBE0B0A304",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E6C976D-207A-479D-AC7C-010F3C11B65D",
+    "height": 32,
+    "width": 360,
+    "x": 0,
+    "y": 422
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / purchase_people",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11BEAFF3-ED81-4194-BB08-36B1E4999BC6",
+      "overrideName": "FF90CDE6-BE16-413E-BDEE-463B527BC452_stringValue",
+      "value": "청원 알리기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6148EAE-BF71-4CDA-80DE-6D15DD83642B",
+      "overrideName": "FA3C5452-3BDA-49C6-AF1F-FC3D3B3206A7_stringValue",
+      "value": "청원에 함꼐할 이웃들을 더 모아보세요"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3376502F-9C52-46F3-9CAB-3F8D0093D7B0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "47375D3D-7325-40B7-AD2D-F754E1E4187E",
+  "verticalSpacing": 0
+}

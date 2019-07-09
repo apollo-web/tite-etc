@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7CF87D33-E3FF-4ADB-AD0A-6BED8F817BFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9B3B3DD2-32F7-4BE3-A2BC-4834DC67EFAD",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D834C5B5-9308-4706-8CC1-BF9F2CE6AAC4",
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 100
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / profileDist",
+  "nameIsFixed": true,
+  "originalObjectID": "25C91635-44B2-47A4-8777-E09AAA8087BD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "661A7CBD-7CB4-4AFB-A8F9-B90E12D9D87E",
+      "overrideName": "6E10840F-1EF8-4BF7-A20A-2034B683506A_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8EDF5395-4016-435F-8E88-E50C06AEAF65",
+      "overrideName": "6E10840F-1EF8-4BF7-A20A-2034B683506A/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/24a0a865bd6f841a0df7f8b0e07fcc3a6209c996.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C81C66D7-6233-4846-A709-509D8E821B3B",
+      "overrideName": "7A65F272-F3DE-48F5-A611-BEFE63B02030_stringValue",
+      "value": "kateyoon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "828311E2-A171-4F7F-8C3F-A56116A1B74F",
+      "overrideName": "2A137591-844D-41EB-9D8A-10099365186B_stringValue",
+      "value": "우리아파트"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5FF7A29E-2250-4414-BFDD-2861B9546C9D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B290789F-7F7C-49E6-8053-F8986237095F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "B6815B49-5F52-42FD-84DF-164D14C68E87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89AD8F30-8770-4771-8B0B-89726B93A6B1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1A01EF73-CC4E-4155-9B23-432EA83D5796",
+    "height": 48,
+    "width": 375,
+    "x": 0,
+    "y": 20
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "header / Base3",
+  "nameIsFixed": false,
+  "originalObjectID": "781B925F-72BC-487E-9703-162721B5B75F",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "520A23BA-C431-409C-A609-5B0E66785A73",
+      "overrideName": "A4216CDE-0652-4199-8E4E-46F93F91B8C8_stringValue",
+      "value": "요청"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27085299-4249-4870-AD8F-4830494511FF",
+      "overrideName": "A607FE65-FF90-469A-8900-7082ABC86DC1_stringValue",
+      "value": "게시하기"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "478BFEC6-9D5A-4C72-961C-1CB5D7F4588F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8989FD83-49FD-47D5-881B-731CC48EA97C",
+  "verticalSpacing": 0
+}

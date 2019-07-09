@@ -1,0 +1,169 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "62B9805E-3F58-45D8-B77B-94520A2F0ADD",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "A4F8D8F5-1AC6-4E72-88E2-EEF8684F846E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64ED5C76-92D0-455D-893C-2D462B511026",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "09904CC1-7F4E-44AF-8612-FF4E19F0D17F",
+    "height": 667,
+    "width": 375,
+    "x": 4212,
+    "y": 1262
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0F4C1FD9-06EB-441E-87E7-703E7174D857",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E8DB4828-1EC3-467A-B34A-BAF7B515E523"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E16A2007-7D9E-4620-8E56-41E6D2E469B6"
+    },
+    {
+      "class": "text",
+      "id": "A7A24589-8257-4EFB-AED1-1F54A6524FFE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "042E500B-1261-4FB9-ACF3-2FC9DE08F3ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "58DA1750-E66A-4130-B442-EBF1435DC4D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "402F01D8-096B-45EA-A661-7D2DF8C48BA8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0B8A1591-EE9C-40A2-BB0E-6B742838BA12"
+    },
+    {
+      "class": "text",
+      "id": "D9130E9D-2383-40F8-89D2-4503E70F4F25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "36E1EE4E-2253-4A28-A261-4ECC679606AD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "004D1E1E-74CE-4247-8861-ABCC573584E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AC4DB14D-C8B0-4348-9A75-6D0C98061619"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89F3855F-3573-4008-8671-B46A9A54AB81"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "420FBD80-D0B3-4ADF-B9CA-225F539C15D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28E6DDF0-A81D-47BA-BDEA-7890896FB06A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "02709351-29E0-4C55-B532-7DB23D7A28D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50FFFB35-82D9-4BF7-A6EC-6773F9EB7F89"
+    }
+  ],
+  "name": "feedItemCard - cta - writePost - petition",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CE54E85-5D92-476F-B59C-A07C3024ABD8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BDA60D9C-D6B1-49EE-94F2-203F301A9381",
+    "guides": [
+    ]
+  }
+}

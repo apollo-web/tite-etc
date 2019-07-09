@@ -1,0 +1,102 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C63D9498-AC6E-4F51-AAAB-827F4AB811F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1DF044B0-B8BF-4B86-B449-D8179B3F2E6B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5548C685-77CC-430C-83EC-0A166898A8BF",
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile",
+  "nameIsFixed": false,
+  "originalObjectID": "3C548A62-6CCB-472A-A24F-17245DE77211",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "09EE5F71-CC9B-42E0-B04A-4D89F0A60F80/FB1E5A04-5B5F-4115-8683-9D5A870A4ACE/F3BEA4E6-AD9F-44D9-AE60-135C13CC048D_symbolID",
+      "value": "61F97155-0850-4779-B564-C2E1C30C1DB3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B3F33459-7F10-4D16-AE4F-705C2B6202C6",
+      "overrideName": "806E09CA-DDDA-459A-9AC0-17B81A9C91E7_stringValue",
+      "value": "스피머"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9353714F-98FC-42AC-9113-ABE3D0E769F3",
+      "overrideName": "E6E3DCFD-7672-4C87-AB97-62B433297B23_stringValue",
+      "value": "스피머님의 상태메시지 입니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4FFF437-4A14-49A9-8D6F-48965C3E0E8A",
+      "overrideName": "5697DA6F-9FFC-4689-B90C-9E416DB4990E/957A608D-7E12-4C87-8E14-B9BC498645DA_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/16d1264ecbf8561da4a0266ccfe2e824f533c76c.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB5E8670-DAC9-4F25-A5B4-8BCD012A5DC7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "584C7749-02DE-4429-9EC0-C891568D230E",
+  "verticalSpacing": 0
+}

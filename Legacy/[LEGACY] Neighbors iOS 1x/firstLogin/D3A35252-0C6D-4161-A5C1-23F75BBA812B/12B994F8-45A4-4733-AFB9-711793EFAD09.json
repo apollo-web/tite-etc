@@ -1,0 +1,124 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "12B994F8-45A4-4733-AFB9-711793EFAD09",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "4417792F-7021-4B58-9022-E2756878C0BE",
+    "do_objectID": "D2D74FE0-4721-4C63-AF42-F19BE9C8E356"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 2Lines",
+  "nameIsFixed": false,
+  "originalObjectID": "3587BA5C-67F4-435B-B232-A71836A1E088",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50F214D5-DDAA-4D7D-BB00-5495CB5FDB8F",
+      "overrideName": "BC0D51A3-4BD3-4295-83B4-1969B8C8F29D_stringValue",
+      "value": "인증코드가 있으신가요?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FE28C18-BF56-49EF-A39E-4948EF6FE71F",
+      "overrideName": "1849ECBB-882A-4868-A91C-8CA20111C42A_stringValue",
+      "value": "인증코드를 받으신 분들은 미리 인증되어 별도의\n인증절차 없이 바로 서비스를 이용하실 수 있습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8821BDA4-9F28-455D-B16A-45812F5CABC3",
+      "overrideName": "F14E2DF1-A4CD-4737-A735-AF70C679C058/C2B22CAB-01D5-4236-BDC3-49642789FEDC_stringValue",
+      "value": "지금 인증코드 입력하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E42EE6E7-E6FD-4629-9628-C1B8A9B0BDB1",
+      "overrideName": "CD87EF87-AFE7-48B5-B3BA-70B5AD7235B8/584C0CE5-D7C4-4115-BEF0-B683D2BFD08A_stringValue",
+      "value": "아니요, 아직 인증코드가 없습니다"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8DA5EB5C-FA0A-445D-8563-7F43FC8F6739",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "861C1C9A-CEE9-4CDD-963D-4E2FBAD21424",
+      "transition": 7
+    }
+  },
+  "verticalSpacing": 0
+}

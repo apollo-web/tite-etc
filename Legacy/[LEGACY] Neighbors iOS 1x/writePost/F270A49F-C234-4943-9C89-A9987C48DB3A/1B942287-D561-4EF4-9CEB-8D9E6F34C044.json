@@ -1,0 +1,103 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1B942287-D561-4EF4-9CEB-8D9E6F34C044",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ACCA03A5-81BA-4210-8458-B518EBC5BD92",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B3673D1E-E98B-49DE-87B4-5D5578F4EC5C",
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 196
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / ProfileVerifiedIcon",
+  "nameIsFixed": true,
+  "originalObjectID": "1646B6E9-4709-423C-8174-5499237C44CB",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7F2BBA36-BCC8-4609-B9D1-0EEE0FE0BE48",
+      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FA32C69C-1760-4EEB-A647-D7EAA0B9C9DC",
+      "overrideName": "08EB031B-C7DE-425E-88AA-A457D40727FD_stringValue",
+      "value": "johnham"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CBFD45BA-12EB-4ECF-8EE3-3464024E1863",
+      "overrideName": "F33A2659-FD2C-491D-A30A-D072645C649C_stringValue",
+      "value": "방금 전"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0D02C248-4BFA-4EAD-B626-B6F7A79070A4",
+      "overrideName": "16BB093B-89D6-4D49-BD34-E369A18CA0F6/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/8a831be8bd04bffe36fa3f6e1dde424f9b2f347a.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "243DCC5C-6DA6-444E-9763-EC0C36521C41",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "A169195F-8ECE-4025-8435-4C9A3767F9CE",
+  "verticalSpacing": 0
+}

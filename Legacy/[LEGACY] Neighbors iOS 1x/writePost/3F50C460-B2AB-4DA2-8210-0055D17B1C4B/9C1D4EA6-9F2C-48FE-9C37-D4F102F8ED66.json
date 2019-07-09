@@ -1,0 +1,100 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "9C1D4EA6-9F2C-48FE-9C37-D4F102F8ED66",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 68
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / profileDist",
+  "nameIsFixed": true,
+  "originalObjectID": "25C91635-44B2-47A4-8777-E09AAA8087BD",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F0826D6C-189B-4F50-818B-745281410A7E",
+      "overrideName": "6E10840F-1EF8-4BF7-A20A-2034B683506A_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FB0BD53B-3FAC-465D-B3BA-55319D9FDB3A",
+      "overrideName": "6E10840F-1EF8-4BF7-A20A-2034B683506A/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/24a0a865bd6f841a0df7f8b0e07fcc3a6209c996.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4FE3D3CA-5AEC-4584-8490-A40AE8E2873A",
+      "overrideName": "7A65F272-F3DE-48F5-A611-BEFE63B02030_stringValue",
+      "value": "kateyoon"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC642455-5FD7-4E97-A210-E4D4C20E953F",
+      "overrideName": "2A137591-844D-41EB-9D8A-10099365186B_stringValue",
+      "value": "우리아파트"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "B290789F-7F7C-49E6-8053-F8986237095F",
+  "verticalSpacing": 0
+}

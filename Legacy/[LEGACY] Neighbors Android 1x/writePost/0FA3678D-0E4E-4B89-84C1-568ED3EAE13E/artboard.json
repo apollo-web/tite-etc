@@ -1,0 +1,185 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "0FA3678D-0E4E-4B89-84C1-568ED3EAE13E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 2297,
+    "y": 570
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "949D378C-82AF-498F-9682-669830FE8E08"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "621CD44F-796B-453F-947F-B7F768399347"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B04E93BF-3959-4D6A-8D39-D2CD530154F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "47AC276F-D10E-40DC-9F65-1F94229E231F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "700452DE-5CD6-44E1-BFE5-543002DE6728"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB65C7D5-E99C-44EC-A900-6EFFE3C48EA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74CFFEA6-8B5F-43D2-A369-4BA7973D9FED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "49C1171D-62FF-4785-A91D-172544235BEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFDA1319-F551-4BE4-A721-5DF2A8F483FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "450EC9A5-FCA9-4276-AEC7-D688F57A243A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C6B5DD6B-1FA1-4CD8-8616-3E7A52A40B8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "815C852D-78FD-457E-89FD-CD87CB930392"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "74FB3321-B9E9-4147-A9DC-64AE2DED7BF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D9A2AE9-B40D-40E8-87C1-F096DF40B06C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "831EE5C6-84E0-4F34-8159-07CDDD48F46A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08C7A45D-6790-4B91-8341-38BC85144CF8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E3C167D2-4109-49B6-AC51-5F15EFF05D99"
+    }
+  ],
+  "name": "writePost_selectImage_after",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Mobile",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

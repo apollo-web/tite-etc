@@ -1,0 +1,119 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "32271F95-BCA3-452D-8ADA-05CB190FA12F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "A90144F5-70C0-46C0-A48D-2C5924A4A6B2",
+    "do_objectID": "6D68180D-F0B7-43CB-8247-2AE7BCED25B7"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 328,
+    "x": 16,
+    "y": 160
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form / form_normal",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12A1C645-4EC6-4F48-9458-29F9428DBECB",
+      "overrideName": "0323A531-0E70-4B79-829D-638094B6F874_stringValue",
+      "value": "제품명(필수)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "241CC6B7-4D89-4191-875D-2E064A2222C3",
+      "overrideName": "33FAE65D-06FC-4405-8370-C7570EB22957_stringValue",
+      "value": "제품명을 입력해주세요"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE27B92F-780C-46D1-AF73-449981BFA128",
+      "overrideName": "BC9BEADB-7C1E-4902-95BF-EF3EEE832EFD_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F264EDB-1DF0-494A-ABBD-9415FCE08AFF",
+      "overrideName": "78538C57-EB9A-472C-BF56-AAC23223847F_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F53EB09E-0DE8-4FCC-AF04-A9B9F70D6844",
+  "verticalSpacing": 0
+}

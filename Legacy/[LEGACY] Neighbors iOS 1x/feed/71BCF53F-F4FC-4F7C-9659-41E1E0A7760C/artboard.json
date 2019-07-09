@@ -1,0 +1,221 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "71BCF53F-F4FC-4F7C-9659-41E1E0A7760C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0A41FE12-ADD7-40B2-B5E2-876F7E8D4197",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "23C91338-D8B0-439F-8741-AF44A31B1B3D",
+    "height": 812,
+    "width": 375,
+    "x": -1738,
+    "y": -1606
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4FA2DDE5-6560-4993-87E6-EFC030CDBD9C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D6767D41-572C-486A-ADC3-C169E38D1667"
+    },
+    {
+      "class": "text",
+      "id": "5AE657CC-45B1-4A50-B1FA-960273B7822E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB195728-6B4C-4C53-8510-249EC480D3B7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D8BD85F-D12C-429D-8F6F-3318E46E2873"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D31DF430-ABD0-45F1-9B7F-8F8AA14FEE75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4CE33054-6932-4872-B0E0-2A2ACEB5BAE5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F72B6F28-1978-486D-97B9-049177725F74"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F3DED8E8-C6E8-4BB0-AC53-DB3E6654A898"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B5F5264C-5E78-4ECC-9A9A-9AB9511BA662"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBB639DB-3FA9-4249-B54F-36BC531B03EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8C68E60-FF94-44C3-B23F-D32033D865B7"
+    },
+    {
+      "class": "text",
+      "id": "8245C832-7996-4BAE-83B8-1ECE9F619442"
+    },
+    {
+      "class": "text",
+      "id": "09616945-9A91-4655-AB7A-3300C9FE1767"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "872023AA-FC83-4DB0-98DA-F52FD7B6C636"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54786EF3-FAD6-42C7-AFCB-03008B8D12C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CBD400FD-4674-4CAB-96F0-7EB426675BC4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "89D8FD6D-713C-4BD9-9F39-20E9B26BAE11"
+    }
+  ],
+  "name": "[iPhoneX] postDetailViewComment - seeMore - 2",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C961DB62-5E08-4957-AC17-912CBE297FB1",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "gradient": {
+          "_class": "gradient",
+          "elipseLength": 0,
+          "from": "{0.5, 0}",
+          "gradientType": 0,
+          "stops": [
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+              },
+              "position": 0
+            },
+            {
+              "_class": "gradientStop",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.2,
+                "green": 0.2,
+                "red": 0.2
+              },
+              "position": 1
+            }
+          ],
+          "to": "{0.5, 1}"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "70149FE7-642D-403E-B9B2-128F68770134",
+    "guides": [
+    ]
+  }
+}

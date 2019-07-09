@@ -1,0 +1,109 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "DF4F182C-1374-4AA8-BC97-C28988891AE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "22B06F43-2B23-4F27-8ACD-D91814D19266",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "84B87B54-79F2-44BC-B555-51DBFB126D7C",
+    "do_objectID": "6EC56240-016D-489E-A7CE-089DCAF57422"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0F6FA90-FD66-4961-BAF2-99E1C65E60BD",
+    "height": 76,
+    "width": 375,
+    "x": 0,
+    "y": 708
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / Profile",
+  "nameIsFixed": true,
+  "originalObjectID": "1FEDA595-8221-4471-9B7C-D5B9319E5834",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1E10B330-9C0D-4423-9B5F-3997A4BC0D4E",
+      "overrideName": "F5D80A8E-4648-4082-87F9-3201FA9C16A6_symbolID",
+      "value": "5A5A3BF8-F134-43CE-8348-C71CB6E2885F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3059385F-CFD9-4C71-807C-0E0646E443DD",
+      "overrideName": "F5D80A8E-4648-4082-87F9-3201FA9C16A6/74BC3964-44D0-4874-B1B2-0FDFBE80BCA0_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/bb3463658050172d7ffdc2923e71f844d927a7bd.png",
+        "_ref_class": "MSImageData"
+      }
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AC323966-AB39-4200-9436-1A188A44BF69",
+      "overrideName": "7C580B7F-4716-44C9-BAE8-1CD00D750EFC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A416906-B3A8-4C0E-BFDE-A20C2CDD4D51",
+      "overrideName": "D8ECF692-8578-4E4C-88D1-437C3DE90F08_stringValue",
+      "value": "hyoukseo"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EF2575A0-3DB5-47AC-AF5E-E279EF909E36",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "97E8BF1D-40D3-47E4-95DF-096C6F817F91",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "815656CC-817A-4400-808F-E3EA7B53ED1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 96,
+    "width": 375,
+    "x": 0,
+    "y": 162
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "BaseAfter",
+  "nameIsFixed": true,
+  "originalObjectID": "5B77300E-ED51-47EA-89B4-B478CE96A1F4",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "227EF923-D7D8-43E9-895C-6B0D415020FB",
+      "overrideName": "E1227283-B5F7-465E-BF77-052CED93E5DD_stringValue",
+      "value": "제품명(필수)"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59FF40CB-4F75-4373-87FC-0BAB483B330B",
+      "overrideName": "B5D8BC54-9E25-42E7-9E2E-4945C95A4444_stringValue",
+      "value": "깔끔한 원목 스탠딩 의자"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9847CCF7-8E04-49AF-A16E-E884DAF854FF",
+      "overrideName": "A9E85B16-79CD-456A-9245-5002FE5A651D_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E7F75D7-BCDD-467F-906A-F7FFD60987CB",
+      "overrideName": "A801CEFF-39B3-405A-A14A-923D659A0CC9_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "03005C59-92B6-438C-84A6-D5F62B2BAF10",
+  "verticalSpacing": 0
+}

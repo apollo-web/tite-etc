@@ -1,0 +1,120 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "D8BEAC51-B1E7-4198-AA0E-340BAD65EA62",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9CA56D2C-5415-432D-A20B-8D4B6A68C701",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "33873FD3-0DE5-489C-B016-B7C23D196095",
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "profile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6611A204-D33B-4ECD-89E4-A768827103CB",
+      "overrideName": "692173E4-CB0B-45BF-A14C-B4B840E7083D_symbolID",
+      "value": "11524A71-7879-4962-9E9E-184147A05699"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84BA546C-7FE0-4F0A-810D-60191AB0F4C9",
+      "overrideName": "E7FE8720-3CC5-4E2E-8CC4-7DD87B13691C_stringValue",
+      "value": "연수땅맘"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A819E24-7C58-48CA-A248-8AD1541BC336",
+      "overrideName": "B7F101FB-6B49-43D3-8916-8935A60B8250_stringValue",
+      "value": "연수땅맘님의 상태메시지 입니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E77A5ED7-8550-40F6-AB1B-B394052A961A",
+      "overrideName": "692173E4-CB0B-45BF-A14C-B4B840E7083D/392852F6-2AE0-4A26-B34B-E2D167531B9D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/7a7ec7e2bb88aef8f007a0067a775b5e1a5311e4.png",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F151DA13-F3B9-410F-B108-295D67EC651B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "786715F3-A941-47C8-8313-D1BD43391390",
+  "verticalSpacing": 0
+}

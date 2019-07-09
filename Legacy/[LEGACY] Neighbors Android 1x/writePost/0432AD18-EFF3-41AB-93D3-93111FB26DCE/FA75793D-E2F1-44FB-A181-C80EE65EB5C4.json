@@ -1,0 +1,122 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "FA75793D-E2F1-44FB-A181-C80EE65EB5C4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "106430FF-81A4-4E3B-8511-C62788062C33",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A91CEE0D-0480-4634-AEBF-C70292F55CCC",
+    "height": 640,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "actionSheet / 1Line",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0F6C7F1-E515-4524-B419-85DB6CE75985",
+      "overrideName": "9C696C2E-BA71-499E-99F2-BC646C20D05D_stringValue",
+      "value": "게시물을 임시 저장하시겠어요?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61863387-4900-462F-A8BF-231EA26883BE",
+      "overrideName": "23C1F602-A3CB-4C32-997B-BDC3E2165129_stringValue",
+      "value": "저장된 글은 나중에 이어서 작성할 수 있습니다"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "844038C7-114E-4553-BD92-FD80CB01C72E",
+      "overrideName": "B0B8F55A-B8EF-4ED9-AD75-5BA0380F9397/E254D35B-86B7-4AA7-A0E2-B0F06705EB89_stringValue",
+      "value": "저장하지 않고 나가기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3D206D85-90C7-4A30-8609-6135167E1DD1",
+      "overrideName": "216A1CB9-8E90-4C84-833F-EEE272673B5F/2830BC3C-6867-4FA3-AA90-735C2DE3BA2D_stringValue",
+      "value": "게시물 임시 저장하기"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD120197-4D0B-4083-9FD1-FBE5A4CFB03D",
+      "overrideName": "216A1CB9-8E90-4C84-833F-EEE272673B5F/C9407397-3EED-4716-BCA3-2AF721E61E7F_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "619AC460-25CC-47F5-ABF1-DCA94850A657",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C57C3D89-4737-43A1-BD2D-28819313FE24",
+  "verticalSpacing": 0
+}

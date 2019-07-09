@@ -1,0 +1,108 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "82B8A6EC-F322-4DF8-A513-C20E84D5576F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CC9C7780-FD92-46CA-B5F9-9DB5C3D02DF7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "646A03A3-BA5F-4208-986E-D69304D39699",
+    "do_objectID": "3D0DB70D-1A47-4410-8C14-AB2F8AC16112"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F8A957D4-9D35-472C-9288-9DA954237DE2",
+    "height": 110,
+    "width": 110,
+    "x": 125,
+    "y": 294
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / selectTag_each",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C655D5DB-8AF8-4079-AECD-6BB37C70BA36_symbolID",
+      "value": "238C070A-D34F-46E9-8104-01FED4907176"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4197A018-7B8A-49BA-95E1-B470F827539B_stringValue",
+      "value": "질문"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09F7BF17-F6AE-411B-976A-AEB6DE8F475F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "34E5DF0E-3338-4F11-AF70-F80D795F0712",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,110 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5992D2BE-1E0B-4DEB-B47C-AA4F6FF5949A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABBC5DF0-4234-4AAD-AC08-3DA12CE1235C",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "flow": {
+    "_class": "MSImmutableFlowConnection",
+    "animationType": -1,
+    "destinationArtboardID": "FAB29961-ED1B-4352-B8A1-87585CC81B31",
+    "do_objectID": "3B9FCDBA-58A3-48D9-ABA6-ECD378B35B76"
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E6D77CA4-C31D-45F9-AC69-2708C526E328",
+    "height": 32,
+    "width": 360,
+    "x": 0,
+    "y": 95
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "writePost / tag / tags_dropdown",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D055092-30B7-4AA4-B030-02D20509F072",
+      "overrideName": "E64103D4-E848-4672-B27B-8E769D179092_symbolID",
+      "value": "FC8046A7-DF39-4C60-8FA3-E9080B0E071D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7104A68E-7AC8-4FB5-AA28-4C98EBC035FD",
+      "overrideName": "37098D69-BAB8-4AA1-8FD2-E0050F088A39_stringValue",
+      "value": "마켓"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C07B74ED-E31B-42B9-9015-C94EB7D3416D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "D0E0EDAC-38E2-49C4-B3D4-01113856D7E0",
+  "verticalSpacing": 0
+}

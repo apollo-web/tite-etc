@@ -1,0 +1,104 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "59FC4374-5372-4A61-8609-7C1BC34093CD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72EAA7C3-7FDA-4A9E-96EE-E827E0C1A4B1",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "mdpi/",
+        "namingScheme": 1,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "hdpi/",
+        "namingScheme": 1,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xhdpi/",
+        "namingScheme": 1,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxhdpi/",
+        "namingScheme": 1,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C49D92B3-1C28-4949-B1E6-4ED754053605",
+    "height": 32,
+    "width": 360,
+    "x": 0,
+    "y": 402
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feed / tags",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D2FD9254-6723-479D-8F91-FE4726FCEC06",
+      "overrideName": "659D3657-2069-49F4-9C3B-E0297406920C_stringValue",
+      "value": "리뷰 ㆍ 30분 전"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "253BF90A-6B77-4A82-B01C-8646B66472BA",
+      "overrideName": "3F464659-323E-4BB7-B287-53FD56B5F12C_symbolID",
+      "value": "0B7BDB7A-830C-4C40-A0D0-C682FD74B932"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2F63332D-1746-445D-9353-1E4E2ACE3074",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DBFC69BA-DECF-4E10-A0CC-105E3AADF4EF",
+  "verticalSpacing": 0
+}

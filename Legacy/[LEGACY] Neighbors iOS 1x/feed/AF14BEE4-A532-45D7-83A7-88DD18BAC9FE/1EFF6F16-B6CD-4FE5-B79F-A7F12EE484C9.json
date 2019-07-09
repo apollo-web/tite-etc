@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1EFF6F16-B6CD-4FE5-B79F-A7F12EE484C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A479E398-7AD0-488E-A1D4-FBC73A24A176",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F22874B-BF59-4F21-A44D-E98459986BD4",
+    "height": 32,
+    "width": 375,
+    "x": 0,
+    "y": 547
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "feedItemCard / tags",
+  "nameIsFixed": false,
+  "originalObjectID": "E8A9F5CD-0227-4D7A-98E4-AA2BB9A970B3",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C9C8BE67-A7EE-407F-8501-DAA674F92296",
+      "overrideName": "8AFE2416-F2E9-4A4B-8EE8-E43B553ACF61_symbolID",
+      "value": "39DEBF70-7227-470F-A9EB-80F9B28F3B13"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FE440352-07BE-45F6-ABFC-FB654DB5DA2D",
+      "overrideName": "926183F0-B000-46E1-BFBD-2A0B6184356C_stringValue",
+      "value": "요청 - 주민청원 ㆍ 30분 전"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C7ED2A30-3D60-49AC-BAF7-1D67FEF001AD",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "80899566-1779-43AB-B104-7AB42829BBA7",
+  "verticalSpacing": 0
+}
